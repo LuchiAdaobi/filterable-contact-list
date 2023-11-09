@@ -10,3 +10,7 @@ body{
 img{
     display: block;
 }
+#no-contact {
+    display: none;
+    
+}
