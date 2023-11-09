@@ -14,3 +14,6 @@ img{
     display: none;
     
 }
+#no-contact.active{
+    display: block;
+}
