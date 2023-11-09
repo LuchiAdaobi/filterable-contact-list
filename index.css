@@ -10,10 +10,10 @@ body{
 img{
     display: block;
 }
-#no-contact {
-    display: none;
-    
+.collection-item a {
+    color: #9C27B0;
 }
-#no-contact.active{
-    display: block;
+
+#no-contact{
+    display: none;
 }
